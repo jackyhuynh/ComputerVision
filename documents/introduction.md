@@ -29,3 +29,11 @@
 - Sobel filter has gaussian inside it.
 - There 2 two horizontal and vertical line
 
+# Methods Sampling:
+## Images down Sampling:
+- How to lower resolution on an images without losing the information
+- This is called the images pyramid
+
+# Asline
+- Take a sample of the realworld
+- Sineway is continious
