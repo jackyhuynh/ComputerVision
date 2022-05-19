@@ -17,4 +17,15 @@
 - Each image have different dimensions
 
 ## The Gaussian Filter
-- 
+
+
+## Mean Filter:
+- Get the sum of each point and divide by the number
+
+## Median Fiter:
+- Either get black or white
+
+## Sobel Filter:
+- Sobel filter has gaussian inside it.
+- There 2 two horizontal and vertical line
+
