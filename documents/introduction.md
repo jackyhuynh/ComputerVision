@@ -8,3 +8,7 @@
 
 ## Examles:
 - OCR: take pictures from the licenses, if the user speeding will send the pics
+
+# Images Filtering
+- Point Operation: Change the value of 1 point (pixel)
+- Neighborhood Operation: Change the value of 1 area (group of pixel)
