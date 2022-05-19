@@ -12,3 +12,5 @@
 # Images Filtering
 - Point Operation: Change the value of 1 point (pixel)
 - Neighborhood Operation: Change the value of 1 area (group of pixel)
+
+# Dimensinality of an Image
