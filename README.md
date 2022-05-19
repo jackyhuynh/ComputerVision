@@ -1,11 +1,7 @@
 # TEMPLATE for PYTHON Developer using PYCHARM
 
 ## Introduction
- Simply introduce the project that specically built with PyCharm. 
-I believe the simplier the Readme file, the easier to read
-- You can also keep this private and organize this GitHub as a private libary for yourself.
-<img src="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/images/instruction.JPG">
-- PLEASE DO A DEEP REFRESH if the web doesn't look like the home page. Also try to run on diffrent web browsers if anything not right.
+Computer Vision using Python
 
 ## Documents/Research Paper
 Link your research paper <a href="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/documents/resarch-sample.pdf">here</a> if you need
@@ -16,6 +12,7 @@ List of technology
 - Python 
 - Object Oriented Design
 - PyCharm IDE
+- Computer Vision
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
