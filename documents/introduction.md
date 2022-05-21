@@ -36,4 +36,20 @@
 
 # Asline
 - Take a sample of the realworld
-- Sineway is continious
+- Sine-way is continuous
+
+## Nyquist-Shannon Sampling Theory:
+- Anti-aliasing in sampling:
+  - Smooth the signal
+  - Over-sample
+- Low-pass filter: Allow low frequency to pass: smooth the images (a blur filter)
+- High-pass filter:
+  - Only keep the high frequencies
+  - Edge detection (Sobel) is an example of high pass filter.
+- Anti-aliasing
+- Algorithm for down-sampling by factor of 2: Hybrid Images
+- Gaussian image pyramid: sub-sampled images
+
+## Understand Frequency as Wave
+- The Fourier Series
+- 
