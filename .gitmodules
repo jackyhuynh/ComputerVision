@@ -1,3 +1,6 @@
 [submodule "EvaluationMetric"]
 	path = EvaluationMetric
 	url = https://github.com/jackyhuynh/EvaluationMetric.git
+[submodule "ImageClassifierBasicOpenCV"]
+	path = ImageClassifierBasicOpenCV
+	url = https://github.com/jackyhuynh/ImageClassifierBasicOpenCV.git
