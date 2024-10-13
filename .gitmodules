@@ -4,3 +4,12 @@
 [submodule "ImageClassifierBasicOpenCV"]
 	path = ImageClassifierBasicOpenCV
 	url = https://github.com/jackyhuynh/ImageClassifierBasicOpenCV.git
+[submodule "TrafficLightClassifier"]
+	path = TrafficLightClassifier
+	url = https://github.com/jackyhuynh/TrafficLightClassifier.git
+[submodule "HighPassFilter"]
+	path = HighPassFilter
+	url = https://github.com/jackyhuynh/HighPassFilter.git
+[submodule "DayNightClassifier"]
+	path = DayNightClassifier
+	url = https://github.com/jackyhuynh/DayNightClassifier.git
